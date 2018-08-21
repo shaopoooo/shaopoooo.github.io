@@ -173,3 +173,13 @@ h6{
 .bside{
 	border: .5rem solid #f2f2f2;
 }
+.custom-select{
+	width:20%;
+}
+.btnbuy{
+	width:50%;
+	text-align: center;
+}
+.slick-prev:before, .slick-next:before{
+	color:black !important;
+}
